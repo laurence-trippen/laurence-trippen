@@ -22,12 +22,13 @@
 - [go-image-background](https://github.com/laurence-trippen/go-image-background) `Golang` Golang program which adds a background color to an image.
 - [avp-asset-verifier](https://github.com/laurence-trippen/avp-asset-verifier) `Node.js CLI` Alien vs. Predator (1999) game asset MD5 & file-name verifier tool.
 
-# Python
+### Python
 - [Python Image Scripts](https://github.com/laurence-trippen/Python-Image-Stuff) `Python` Some Python CLIs for image manipulation.
 - [Python Network Scanner](https://github.com/laurence-trippen/PyNetworkScanner) `Python` `TCP` LANScanner class to scan for devices in the local network.
 
 ### Desktop Tools
 - [VirtualBox VRAM Enhancer](https://github.com/laurence-trippen/VirtualBox-VRAM-Enhancer) `Python` `Tkinter` `VirtualBox` Simple GUI tool which makes hidden VirtualBox VRAM settings easier to access.
+- [Minecraft Server Workbench](https://github.com/laurence-trippen/Minecraft-Server-Workbench) `Java` `JavaFX` `JDOM` `Multi-Threading` Minecraft Server Manager. One of my first real Java projects. Unfortunately unfinished. :-(
 
 ### Apps
 - [FlappyAndroid](https://github.com/laurence-trippen/FlappyAndroid) `Android` `Java` `OpenGL ES` TheCherno's FlappyBird Android port to OpenGL ES 3.0.
@@ -35,8 +36,11 @@
 ### My Templates
 - [Webpack 5 Bootstrap 3 Template](https://github.com/laurence-trippen/webpack5-bootstrap3-template) `Webpack` Modern bundling for legacy page maintenance.
 - [C SDL2 Premake5 Template](https://github.com/laurence-trippen/RogueLike) `C` `SDL2` `Premake5` A simple SDL2, Premake5 template for C.
+- [SharpDX-UWP-CoreWindows-Template](https://github.com/laurence-trippen/SharpDX-UWP-CoreWindow-Example) `C#` `UWP` `DX11` SharpDX (DirectX11) CoreWindow template for UWP.
+
+### Java
+- [Java Properties Generator](https://github.com/laurence-trippen/TaskSystem4j) `Java` `Annotations` Java .properties file de-/serialization with declarative annotations.
+- [TaskSystem4j](https://github.com/laurence-trippen/TaskSystem4j) `Java` Attempt to build a little cron-like task-system for Java.
 
 ### PHP
 - [SmartElephantPHP](https://github.com/laurence-trippen/SmartElephantPHP) `PHP` Attempt to build a small MVC PHP framework.
-
-
