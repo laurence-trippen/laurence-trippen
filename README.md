@@ -40,7 +40,7 @@
 - [SharpDX-UWP-CoreWindows-Template](https://github.com/laurence-trippen/SharpDX-UWP-CoreWindow-Example) `C#` `UWP` `DX11` SharpDX (DirectX11) CoreWindow template for UWP.
 
 ### Java
-- [Java Properties Generator](https://github.com/laurence-trippen/TaskSystem4j) `Java` `Annotations` Java .properties file de-/serialization with declarative annotations.
+- [Java Properties Generator](https://github.com/laurence-trippen/Java-Properties-Generator) `Java` `Annotations` Java .properties file de-/serialization with declarative annotations.
 - [TaskSystem4j](https://github.com/laurence-trippen/TaskSystem4j) `Java` Attempt to build a little cron-like task-system for Java.
 
 ### PHP
