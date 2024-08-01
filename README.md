@@ -34,6 +34,9 @@
 ### Apps
 - [FlappyAndroid](https://github.com/laurence-trippen/FlappyAndroid) `Android` `Java` `OpenGL ES` TheCherno's FlappyBird Android port to OpenGL ES 3.0.
 
+### 3D & Interactive
+- [Unreal Engine 5 Ready Player Me Example](https://github.com/laurence-trippen/ReadyPlayerMe-UE5) `Unreal Engine 5` `C++` `Blueprints` `Ready Player Me SDK` UE5 with Ready Player Me Integration example with easy to use character manager UI.
+
 ### My Templates
 - [Webpack 5 Bootstrap 3 Template](https://github.com/laurence-trippen/webpack5-bootstrap3-template) `Webpack` Modern bundling for legacy page maintenance.
 - [C SDL2 Premake5 Template](https://github.com/laurence-trippen/RogueLike) `C` `SDL2` `Premake5` A simple SDL2, Premake5 template for C.
