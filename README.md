@@ -1,7 +1,7 @@
 <h1 align="center">Howdy :cowboy_hat_face:, I'm Laurence L. Trippen</h1>
 <h3 align="center">A developer who loves old and new technology.</h3>
 
-- 🌱 I’m currently enjoying 	~~Rust~~ **C**
+- 🌱 I’m currently enjoying Golang & C3 Lang!?
 
 - 📫 How to reach me **laurence.trippen@smartelephantapps.com**
 
