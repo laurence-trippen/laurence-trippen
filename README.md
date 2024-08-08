@@ -1,5 +1,4 @@
 <h1 align="center">Hello :cowboy_hat_face:, I'm Laurence L. Trippen</h1>
-<h3 align="center">A developer who loves old and new technology.</h3>
 
 - 🌱 I’m currently enjoying Golang & C3 Lang!?
 
