@@ -40,6 +40,7 @@
 ### My Templates
 - [Webpack 5 Bootstrap 3 Template](https://github.com/laurence-trippen/webpack5-bootstrap3-template) `Webpack` Modern bundling for legacy page maintenance.
 - [Node.js TypeScript Boilerplate](https://github.com/laurence-trippen/nodejs-typescript-boilerplate) `TypeScript` `Jest` `ESLint` `Node.js` My Node.js TypeScript basic boilerplate.
+- [React TypeScript Webpack Boilerplate](https://github.com/laurence-trippen/react-typescript-webpack-boilerplate) `TypeScript` `Webpack` `Babel` My React starter template with TypeScript & Webpack bundling.
 - [C SDL2 Premake5 Template](https://github.com/laurence-trippen/RogueLike) `C` `SDL2` `Premake5` A simple SDL2, Premake5 template for C.
 - [SharpDX-UWP-CoreWindows-Template](https://github.com/laurence-trippen/SharpDX-UWP-CoreWindow-Example) `C#` `UWP` `DX11` SharpDX (DirectX11) CoreWindow template for UWP.
 
