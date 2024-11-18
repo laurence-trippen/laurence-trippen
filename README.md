@@ -1,6 +1,6 @@
 <h1 align="center">Hello :cowboy_hat_face:, I'm Laurence L. Trippen</h1>
 
-- 🌱 I’m currently enjoying Golang & C3 Lang!?
+- 🌱 I’m currently enjoying Deno 2.0
 
 - 📫 How to reach me **laurence.trippen@smartelephantapps.com**
 
